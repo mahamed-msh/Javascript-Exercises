@@ -9,4 +9,4 @@ let convertedfcn = function(a,b){
     return a+b;
 }
 
-console.log(add(5,8))
+console.log(convertedfcn(56,4))
